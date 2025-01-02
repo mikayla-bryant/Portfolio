@@ -2,12 +2,11 @@
 
 Welcome to my data portfolio! Below, I have a list of projects that I have completed.
 
-***
+---
 
 # Projects
 
-| Project Link | Tools | Project Description | 
-|---|---|---|
-| [Customer Retention and Churn Analysis (Life Insurance)](https://github.com/mikayla-bryant/insurance-churn-analysis/blob/main/Insurance%20Customer%20Churn%20Analysis.ipynb) | Python, pandas, scikit-learn, matplotlib, seaborn, Tableau | Analyzed customer churn patterns in the life insurance industry by performing data wrangling, exploratory data analysis (EDA), and building a predictive churn model. Implemented logistic regression for classification and generated insights to guide customer retention strategies, supported by visualizations and statistical findings. |
-
-
+| Project Link                                                                                                                                                                 | Tools                                                      | Project Description                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Customer Retention and Churn Analysis (Life Insurance)](https://github.com/mikayla-bryant/insurance-churn-analysis/blob/main/Insurance%20Customer%20Churn%20Analysis.ipynb) | Python, pandas, scikit-learn, matplotlib, seaborn, Tableau | Analyzed customer churn patterns in the life insurance industry by performing data wrangling, exploratory data analysis (EDA), and building a predictive churn model. Implemented logistic regression for classification and generated insights to guide customer retention strategies, supported by visualizations and statistical findings.                                                                                                     |
+| [Real Estate Investment Analysis](https://github.com/mikayla-bryant/real-estate-investment-analysis/blob/main/real_estate_1_percent_rule_analysis.ipynb)                     | Python, pandas, SQLite, matplotlib, seaborn                | Investigated U.S. housing market dynamics to identify zip codes with strong rental investment potential using the "1% rule." Conducted extensive data cleaning and EDA on property prices, rent prices, demographic, and economic factors. Developed a composite scoring system to rank zip codes based on metrics like price-to-rent ratios, income, employment, and population growth, providing actionable insights for real estate investors. |
