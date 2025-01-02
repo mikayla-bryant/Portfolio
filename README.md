@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my data portfolio! Below, I have a list of projects that I have completed.
+Welcome to my portfolio! Below, I have a list of projects that I have completed.
 
 ---
 
